@@ -2,7 +2,7 @@
 
 This leaderboard is generated automatically for `ravishankar-03/CODEVIBE-` by GitHub Actions.
 
-Last updated: 2026-06-16
+Last updated: 2026-06-17
 
 ## Scoring
 
@@ -24,7 +24,7 @@ Last updated: 2026-06-16
 | 8 | [@indresh404](https://github.com/indresh404) | 12 | 6 | 0 | 0 |
 | 9 | [@YashvardhanJani](https://github.com/YashvardhanJani) | 12 | 6 | 0 | 0 |
 | 10 | [@advikdivekar](https://github.com/advikdivekar) | 10 | 5 | 0 | 0 |
-| 11 | [@divyagsharma2006-blip](https://github.com/divyagsharma2006-blip) | 10 | 5 | 0 | 0 |
+| 11 | [@divyaa404](https://github.com/divyaa404) | 10 | 5 | 0 | 0 |
 | 12 | [@Mahi-19-design](https://github.com/Mahi-19-design) | 10 | 5 | 0 | 0 |
 | 13 | [@vasheekhan](https://github.com/vasheekhan) | 10 | 5 | 0 | 0 |
 | 14 | [@sofeel](https://github.com/sofeel) | 8 | 4 | 0 | 0 |
