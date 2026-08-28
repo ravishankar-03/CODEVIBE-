@@ -2,7 +2,7 @@
 
 This leaderboard is generated automatically for `ravishankar-03/CODEVIBE-` by GitHub Actions.
 
-Last updated: 2026-08-27
+Last updated: 2026-08-28
 
 ## Scoring
 
@@ -16,7 +16,7 @@ Last updated: 2026-08-27
 | --- | --- | ---: | ---: | ---: | ---: |
 | 1 | [@pranav-cholleti](https://github.com/pranav-cholleti) | 36 | 18 | 0 | 0 |
 | 2 | [@codedbydollys10](https://github.com/codedbydollys10) | 26 | 13 | 0 | 0 |
-| 3 | [@Aayuiiitmg](https://github.com/Aayuiiitmg) | 24 | 12 | 0 | 0 |
+| 3 | [@aayuxsh326](https://github.com/aayuxsh326) | 24 | 12 | 0 | 0 |
 | 4 | [@riteshpatil9686-lgtm](https://github.com/riteshpatil9686-lgtm) | 22 | 11 | 0 | 0 |
 | 5 | [@Smrithi-krishna](https://github.com/Smrithi-krishna) | 16 | 8 | 0 | 0 |
 | 6 | [@sricharan-213](https://github.com/sricharan-213) | 16 | 8 | 0 | 0 |
